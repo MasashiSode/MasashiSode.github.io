@@ -2,6 +2,8 @@
 main:
   # - title: "Publications"
   #   url: /publications/
+  - title: "Top"
+  - url : /about/
 
   - title: "Projects"
     url: /projects/
