@@ -11,7 +11,7 @@ redirect_from:
 ## About
 <!-- ====== -->
 
-Masashi Sode is a AI engineer/data scientist and is engaged in research and development of AI for medical applications.
+Masashi Sode is an AI engineer/data scientist and is engaged in research and development of AI for medical applications.
 
 As a key developer and researcher on the AI team at Aillis, Inc.(startup company), He led the AI team from prototyping to commercialization of influenza diagnosing AI. Through working closely with physicians, hardware team, and software/AI team as a collaborative research project, the project was successfully completed from prototyping to clinical trial in a short period.
 
