@@ -74,10 +74,6 @@ redirect_from:
 
 ## ACCOMPLISHMENTS
 
-### PUBLICATIONS
-
-One co-authored publication relevant to the influenza diagnosis AI developed in Aillis, Inc. is under submission.
-
 ### PATENTS
 
 I am the inventor of **three patent applications** relating to the influenza diagnosing AI system in Aillis, Inc. However, the application numbers and contents of inventions cannot be disclosed due to the current contract with the company.
