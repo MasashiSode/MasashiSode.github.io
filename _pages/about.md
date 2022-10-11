@@ -10,7 +10,7 @@ redirect_from:
 
 ## links
 
-- [dlownload CV](CV_Masashi_Sode.pdf)
+- [download CV](CV_Masashi_Sode.pdf)
 - [LinkedIn](https://www.linkedin.com/in/masashisode)
 - [Github](https://github.com/MasashiSode)
 
