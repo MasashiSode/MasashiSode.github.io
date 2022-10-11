@@ -46,7 +46,7 @@ redirect_from:
 * Writing tools:
   * LaTeX (Advanced), MarkDown (Advanced)
 * Other tools:
-  * Git, Github, Slack, Google/Microsoft software suites, etc.
+  * Git, GitHub, Slack, Google/Microsoft software suites, etc.
 * Communication:
   * Japanese (native), English (fluent speaker), German (fluent speaker)
 

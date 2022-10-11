@@ -15,5 +15,5 @@ details coming soon
 
 ## MOBO
 
-constrained/unconstrained Multi-Objective Bayesian Optimization Package ([Github Page](https://github.com/MasashiSode/MOBO))
+constrained/unconstrained Multi-Objective Bayesian Optimization Package ([GitHub Page](https://github.com/MasashiSode/MOBO))
 coded using Python. this project is one of my personal ones

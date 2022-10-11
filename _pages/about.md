@@ -12,7 +12,7 @@ redirect_from:
 
 - [download CV](CV_Masashi_Sode_20220720.pdf)
 - [LinkedIn](https://www.linkedin.com/in/masashisode)
-- [Github](https://github.com/MasashiSode)
+- [GitHub](https://github.com/MasashiSode)
 
 ## About
 <!-- ====== -->
