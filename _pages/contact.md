@@ -17,6 +17,6 @@ masashi.sode(at)gmail.com
 
 [Masashi Sode](https://www.linkedin.com/in/masashisode/)
 
-# Github
+# GitHub
 
 [MasashiSode](https://github.com/MasashiSode)
