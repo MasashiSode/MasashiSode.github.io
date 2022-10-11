@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [download CV](CV_Masashi_Sode.pdf)
+## [download CV](CV_Masashi_Sode_compressed.pdf)
 <!-- ====== -->
 
 <!-- <br /> -->
