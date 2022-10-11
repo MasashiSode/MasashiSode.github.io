@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [download CV](CV_Masashi_Sode_compressed.pdf)
+## [download CV](CV_Masashi_Sode.pdf)
 <!-- ====== -->
 
 <!-- <br /> -->
@@ -74,9 +74,14 @@ redirect_from:
 
 ## ACCOMPLISHMENTS
 
+### publications
+
+1. S. Okiyama, M. Fukuda, \textbf{M. Sode}, W. Takahashi, M. Ikeda, H. Kato, Y. Tsugawa & M. Iwagami.
+Diagnosing Influenza Infection from Pharyngeal Images using Deep Learning: Machine Learning Approach (under submission)
+
 ### PATENTS
 
-I am the inventor of **three patent applications** relating to the influenza diagnosing AI system in Aillis, Inc. However, the application numbers and contents of inventions cannot be disclosed due to the current contract with the company.
+I am the inventor of **3 patent applications** relating to the influenza diagnosing AI system in Aillis, Inc. However, the application numbers and contents of inventions cannot be disclosed due to the current contract with the company.
 
 ### CONFERENCE PRESENTATIONS
 <!-- ====== -->
