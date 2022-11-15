@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [download CV](CV_Masashi_Sode_20221018.pdf)
+## [download CV](CV_Masashi_Sode_20221115jst_compressed.pdf)
 <!-- ====== -->
 
 <!-- <br /> -->
@@ -77,7 +77,7 @@ redirect_from:
 ### publications
 
 1. S. Okiyama, M. Fukuda, **M. Sode**, W. Takahashi, M. Ikeda, H. Kato, Y. Tsugawa & M. Iwagami.
-Diagnosing Influenza Infection from Pharyngeal Images using Deep Learning: Machine Learning Approach (under revision) [doi: https://doi.org/10.1101/2022.07.19.22276126](https://doi.org/10.1101/2022.07.19.22276126)
+Diagnosing Influenza Infection from Pharyngeal Images using Deep Learning: Machine Learning Approach (in press) [doi: 10.2196/38751](https://doi.org/10.2196/38751)
 
 ### PATENTS
 
