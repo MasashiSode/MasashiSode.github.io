@@ -10,7 +10,7 @@ redirect_from:
 
 ## links
 
-- [download CV](CV_Masashi_Sode_20221018.pdf)
+- [download CV](CV_Masashi_Sode_20221115jst_compressed.pdf)
 - [LinkedIn](https://www.linkedin.com/in/masashisode)
 - [GitHub](https://github.com/MasashiSode)
 
@@ -23,7 +23,7 @@ As a key developer and researcher on the AI team at Aillis, Inc.(startup company
 
 Before joining Aillis, Inc., He was doing research in the aerospace field at Tohoku University. He conducted the research on multi-objective Bayesian optimization for composite aircraft design. To create the automated aircraft design method, the Genetic Algorithm, multi-objective Bayesian Optimization with Gaussian process, Finite Element Method, Computational Fluid Dynamics, and the fluid-structure interaction method are integrated into a Python library with a high-performance computation environment.
 
-Please see [my CV](CV_Masashi_Sode_20221018.pdf) for further information.
+Please see [my CV](CV_Masashi_Sode_20221115jst_compressed.pdf) for further information.
 
 ## Education
 <!-- ====== -->
