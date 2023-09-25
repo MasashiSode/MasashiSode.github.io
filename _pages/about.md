@@ -17,16 +17,25 @@ redirect_from:
 ## About
 <!-- ====== -->
 
-Masashi Sode is an AI engineer/data scientist and is engaged in research and development of AI for medical applications.
+Masashi Sode is a PhD candidate in the [Joint Department of Biomedical Engineering, UNC-Chapel Hill/NC State](https://bme.unc.edu/).
 
-As a key developer and researcher on the AI team at Aillis, Inc.(startup company), He led the AI team from prototyping to commercialization of influenza diagnosing AI. Through working closely with physicians, hardware team, and software/AI team as a collaborative research project, the project was successfully completed from prototyping to clinical trial in a short period.
+Prior to joining the program, Masashi received his B.S. and M.E. in Aerospace Engineering from Tohoku University, Japan. After graduation, he worked for 4 years in a biomedical startup company ([Aillis, Inc.](https://aillis.jp/)) developing medical AI.
 
-Before joining Aillis, Inc., He was doing research in the aerospace field at Tohoku University. He conducted the research on multi-objective Bayesian optimization for composite aircraft design. To create the automated aircraft design method, the Genetic Algorithm, multi-objective Bayesian Optimization with Gaussian process, Finite Element Method, Computational Fluid Dynamics, and the fluid-structure interaction method are integrated into a Python library with a high-performance computation environment.
+In the startup company, he developed the influenza diagnosis AI using throat camera images (doi: 10.2196/38751) as a key developer and researcher in the AI team. This AI device was approved by the Japanese version of the FDA, and it was the first time a prospective study of an AI medical device was conducted in Japan.
+
+In his B.S. and M.E., he conducted a research in the field of aerospace engineering at Tohoku University. His research was on the design method of composite aircraft wing using multi-objective Bayesian optimization. To create the automated aircraft design method, the Genetic Algorithm, multi-objective Bayesian Optimization with Gaussian process, Finite Element Method, Computational Fluid Dynamics, and the fluid-structure interaction method are integrated into a Python library with a high-performance computing environment.
 
 Please see [my CV](CV_Masashi_Sode.pdf) for further information.
 
 ## Education
 <!-- ====== -->
+
+- 2023-(2028)
+
+    **UNC-Chapel**  
+    **PhD candidate in Biomedical Engineering**
+    [Joint Department of Biomedical Engineering, UNC-Chapel Hill/NC State](https://bme.unc.edu/)
+    Chapel Hill, NC, United States
 
 - 2017-2019
 
@@ -54,4 +63,4 @@ Please see [my CV](CV_Masashi_Sode.pdf) for further information.
     **Toin Gakuen High school**  
     Kanagawa, Japan
 
-Last updated: Jun 6th, 2022
+Last updated: Sep 25th, 2023
