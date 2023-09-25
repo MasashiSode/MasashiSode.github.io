@@ -32,7 +32,7 @@ Please see [my CV](CV_Masashi_Sode.pdf) for further information.
 
 - 2023-(2028)
 
-    **UNC-Chapel**  
+    **UNC-Chapel Hill/NC State**  
     **PhD candidate in Biomedical Engineering**
     [Joint Department of Biomedical Engineering, UNC-Chapel Hill/NC State](https://bme.unc.edu/)
     Chapel Hill, NC, United States
