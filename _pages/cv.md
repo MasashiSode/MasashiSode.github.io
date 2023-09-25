@@ -17,6 +17,11 @@ redirect_from:
 ## EDUCATION
 <!-- ====== -->
 
+
+* **PhD candidate in Biomedical Engineering**
+  * [Joint Department of Biomedical Engineering, UNC-Chapel Hill/NC State](https://bme.unc.edu/)
+  * Chapel Hill, NC, United States
+  * 2023-2028
 * **Master of Engineering in Aerospace Engineering, TOHOKU UNIVERSITY**
   * Graduate School of Engineering, [Tohoku University](https://www.tohoku.ac.jp/en/), Sendai, Miyagi, Japan
   * Mar 2019
@@ -54,7 +59,7 @@ redirect_from:
 ## WORK/RESEARCH EXPERIENCE
 <!-- ====== -->
 
-* **AI Engineer / Developing an influenza diagnosis method from pharyngeal images using deep learning**, Oct 2019 --- Present
+* **AI Engineer / Developing an influenza diagnosis method from pharyngeal images using deep learning**, Oct 2019 --- Aug 2023
   * [Aillis, Inc.](https://www.aillis.jp/) (Startup company), Tokyo, Japan
   * As a key developer and researcher on the AI team, I led the AI team from prototyping to commercialization of influenza diagnosing AI in a startup company. Through working closely with physicians, hardware team, and software/AI team as a collaborative research project, the project was successfully completed from prototyping to clinical trial in a short period.
   * The influenza diagnosing AI predicts influenza infection from pharyngeal images and clinical information using multi-modal deep learning. I proposed and developed a number of significant methods and integrated the ideas into the multi-modal medical AI for the clinical trial.
