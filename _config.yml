@@ -24,7 +24,7 @@ repository: "masashisode.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "images/profile.jpg"
+  avatar: "profile.jpg"
   name: "Masashi Sode"
   pronouns: # example: "she/her"
   bio: "PhD Candidate in the Joint Department of Biomedical Engineering at UNC-Chapel Hill/NC State"
