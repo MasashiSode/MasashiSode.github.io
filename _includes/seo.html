@@ -66,7 +66,7 @@ seo_author_twitter %}
 {% endif %} {% if site.social %}
 <script type="application/ld+json">
   {
-    "@context" : "https://schema.org",
+    "@context" : "http://schema.org",
     "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
     "name" : "{{ site.social.name | default: site.name }}",
     "url" : {{ seo_url | jsonify }},
