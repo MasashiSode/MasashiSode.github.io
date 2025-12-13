@@ -39,5 +39,3 @@ Please see [my CV](cv_masashi_sode.pdf) for further information.
   Department of Aerospace Engineering,  
    Graduate School of Engineering,  
    Sendai, Miyagi, Japan
-
-Last updated: Dec 13th, 2025
